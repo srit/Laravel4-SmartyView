@@ -1,6 +1,7 @@
 Smarty for Laravel 4.1
 ======================
 
+
 Somewhat hacky implementation of Smarty for Laravel 4.1.
 
 Unlike Twig and other template engines for Laravel (other than raw PHP and Blade), this supports [View Composers](http://laravel.com/docs/responses#view-composers).
